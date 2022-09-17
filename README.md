@@ -1,2 +1,6 @@
-# purefunc-software-tech-news
-purefunc-software-tech-news
+# $_purefunc Weekly News
+
+# Every Wednesday
+
+# Records
+* [2022/09/21](./2022-09-21)
