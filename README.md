@@ -16,3 +16,4 @@
 * DK
 * iThome
 * 阮一峰
+* [StarBugs 星巴哥 技術週刊](https://weekly.starbugs.dev/)
