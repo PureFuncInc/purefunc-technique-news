@@ -36,7 +36,12 @@
   * [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
   * [矽谷牛的耕田筆記](https://www.facebook.com/technologynoteniu)
 * Community
-  * [DevOps Taiwan]
-  * [TWJUG]
-  * [TWKUG]
+  * [DevOps Taiwan](https://www.facebook.com/groups/817976138289434)
+  * [TWJUG](https://www.facebook.com/groups/twjug)
+  * [TWKUG](https://www.facebook.com/kotlintwn)
   * [Will 保哥的技術交流中心](https://www.facebook.com/will.fans)
+  * [台灣 Java 技術愛好者俱樂部](https://www.facebook.com/groups/javatwug/)
+  * [台灣 .NET 技術愛好者俱樂部](https://www.facebook.com/groups/DotNetUserGroupTaiwan/)
+  * [水球軟體學院 (TW WSA)](https://www.facebook.com/groups/wsa.tw)
+  * [Cloud Native Taiwan User Group](https://www.facebook.com/groups/cloudnative.tw/)
+  * [Kubernetes Taiwan User Group](https://www.facebook.com/groups/k8s.tw/)
