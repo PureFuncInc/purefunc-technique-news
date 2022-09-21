@@ -12,6 +12,7 @@
 * [0️⃣0️⃣0️⃣1️⃣ 2️⃣0️⃣2️⃣2️⃣ 0️⃣9️⃣2️⃣1️⃣](https://github.com/PureFuncInc/purefunc-weekly-news/milestone/1)
 
 # Origin & Partner (Order by Alphabet
+* [.NET Walker 大內行者](https://www.facebook.com/DotNetWalker)
 * [91 敏捷開發之路](https://www.facebook.com/91agile)
 * [Ant](https://www.facebook.com/yftzeng.tw)
 * [DavidKo Learning Journey](https://www.facebook.com/DavidLearningJourney)
