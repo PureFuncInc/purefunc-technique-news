@@ -26,3 +26,5 @@
 * [黑暗執行緒](https://blog.darkthread.net/)
 * [安德魯的部落格](https://www.facebook.com/andrew.blog.0928)
 * [風雪之閣](https://www.facebook.com/cooldotnet)
+* [高見龍](https://www.facebook.com/eddiekao)
+* [廖洧杰](https://www.facebook.com/sfismy)
