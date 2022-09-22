@@ -9,12 +9,12 @@
 * [Contributions Are Welcomed](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/new?assignees=Jian-Min-Huang&labels=unclassified&template=contributions.md&title=)
 
 # Records
-* [0️⃣0️⃣0️⃣1️⃣ 2️⃣0️⃣2️⃣2️⃣ 0️⃣9️⃣2️⃣1️⃣](https://github.com/PureFuncInc/purefunc-weekly-news/milestone/1)
-* [0️⃣0️⃣0️⃣2️⃣ 2️⃣0️⃣2️⃣2️⃣ 0️⃣9️⃣2️⃣8️⃣](https://github.com/PureFuncInc/purefunc-weekly-news/milestone/2)
-* [0️⃣0️⃣0️⃣3️⃣ 2️⃣0️⃣2️⃣2️⃣ 1️⃣0️⃣0️⃣5️⃣](https://github.com/PureFuncInc/purefunc-weekly-news/milestone/3)
-* [0️⃣0️⃣0️⃣4️⃣ 2️⃣0️⃣2️⃣2️⃣ 1️⃣0️⃣1️⃣2️⃣](https://github.com/PureFuncInc/purefunc-weekly-news/milestone/4)
-* [0️⃣0️⃣0️⃣5️⃣ 2️⃣0️⃣2️⃣2️⃣ 1️⃣0️⃣1️⃣9️⃣](https://github.com/PureFuncInc/purefunc-weekly-news/milestone/5)
-* [0️⃣0️⃣0️⃣6️⃣ 2️⃣0️⃣2️⃣2️⃣ 1️⃣0️⃣2️⃣6️⃣](https://github.com/PureFuncInc/purefunc-weekly-news/milestone/6)
+* [0️⃣0️⃣0️⃣1️⃣ 2️⃣0️⃣2️⃣2️⃣ 0️⃣9️⃣2️⃣1️⃣](https://github.com/PureFuncInc/purefunc-weekly-news/milestone/1?closed=1)
+* [0️⃣0️⃣0️⃣2️⃣ 2️⃣0️⃣2️⃣2️⃣ 0️⃣9️⃣2️⃣8️⃣](https://github.com/PureFuncInc/purefunc-weekly-news/milestone/2?closed=1)
+* [0️⃣0️⃣0️⃣3️⃣ 2️⃣0️⃣2️⃣2️⃣ 1️⃣0️⃣0️⃣5️⃣](https://github.com/PureFuncInc/purefunc-weekly-news/milestone/3?closed=1)
+* [0️⃣0️⃣0️⃣4️⃣ 2️⃣0️⃣2️⃣2️⃣ 1️⃣0️⃣1️⃣2️⃣](https://github.com/PureFuncInc/purefunc-weekly-news/milestone/4?closed=1)
+* [0️⃣0️⃣0️⃣5️⃣ 2️⃣0️⃣2️⃣2️⃣ 1️⃣0️⃣1️⃣9️⃣](https://github.com/PureFuncInc/purefunc-weekly-news/milestone/5?closed=1)
+* [0️⃣0️⃣0️⃣6️⃣ 2️⃣0️⃣2️⃣2️⃣ 1️⃣0️⃣2️⃣6️⃣](https://github.com/PureFuncInc/purefunc-weekly-news/milestone/6?closed=1)
 
 # Origin & Partner (Order by Alphabet
 * Blog
