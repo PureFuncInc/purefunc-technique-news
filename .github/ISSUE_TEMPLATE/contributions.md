@@ -2,7 +2,7 @@
 name: contributions
 about: community contributions
 title: ''
-labels: new
+labels: unclassified
 assignees: Jian-Min-Huang
 
 ---
