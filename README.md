@@ -6,10 +6,15 @@
   * commercial
   * community
   * sentence
-* [Contributions Are Welcomed](https://github.com/PureFuncInc/purefunc-weekly-news/issues/new/choose)
+* [Contributions Are Welcomed](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/new?assignees=Jian-Min-Huang&labels=new&template=contributions.md&title=)
 
 # Records
 * [0️⃣0️⃣0️⃣1️⃣ 2️⃣0️⃣2️⃣2️⃣ 0️⃣9️⃣2️⃣1️⃣](https://github.com/PureFuncInc/purefunc-weekly-news/milestone/1)
+* [0️⃣0️⃣0️⃣1️⃣ 2️⃣0️⃣2️⃣2️⃣ 0️⃣9️⃣2️⃣8️⃣](https://github.com/PureFuncInc/purefunc-weekly-news/milestone/2)
+* [0️⃣0️⃣0️⃣1️⃣ 2️⃣0️⃣2️⃣2️⃣ 1️⃣0️⃣0️⃣5️⃣](https://github.com/PureFuncInc/purefunc-weekly-news/milestone/3)
+* [0️⃣0️⃣0️⃣1️⃣ 2️⃣0️⃣2️⃣2️⃣ 1️⃣0️⃣1️⃣2️⃣](https://github.com/PureFuncInc/purefunc-weekly-news/milestone/4)
+* [0️⃣0️⃣0️⃣1️⃣ 2️⃣0️⃣2️⃣2️⃣ 1️⃣0️⃣1️⃣9️⃣](https://github.com/PureFuncInc/purefunc-weekly-news/milestone/5)
+* [0️⃣0️⃣0️⃣1️⃣ 2️⃣0️⃣2️⃣2️⃣ 1️⃣0️⃣2️⃣6️⃣](https://github.com/PureFuncInc/purefunc-weekly-news/milestone/6)
 
 # Origin & Partner (Order by Alphabet
 * Blog
