@@ -6,7 +6,7 @@
   * commercial
   * community
   * sentence
-* [Contributions Are Welcomed](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/new?assignees=Jian-Min-Huang&labels=new&template=contributions.md&title=)
+* [Contributions Are Welcomed](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/new?assignees=Jian-Min-Huang&labels=unclassified&template=contributions.md&title=)
 
 # Records
 * [0️⃣0️⃣0️⃣1️⃣ 2️⃣0️⃣2️⃣2️⃣ 0️⃣9️⃣2️⃣1️⃣](https://github.com/PureFuncInc/purefunc-weekly-news/milestone/1)
