@@ -1,11 +1,11 @@
 # $_purefunc Technique Weekly News
 * Post Every Wednesday
 * Parts
-  * news 👀
-  * memo 🏷
-  * commercial 💼
-  * community 👥
-  * sentence 📜
+  * 👀 news
+  * 🏷 memo
+  * 💼 commercial
+  * 👥 community
+  * 📜 sentence
 * [Contributions Are Welcomed](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/new?assignees=Jian-Min-Huang&labels=unclassified&template=contributions.md&title=)
 
 # History ([Link 👈](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestones?state=closed))
