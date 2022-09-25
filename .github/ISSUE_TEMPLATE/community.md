@@ -1,7 +1,9 @@
 ---
-name: 👥 community about: community information title: ''
-labels: community assignees: Jian-Min-Huang
-
+name: 👥 community 
+about: community information 
+title: ''
+labels: community 
+assignees: Jian-Min-Huang
 ---
 
 # Notice

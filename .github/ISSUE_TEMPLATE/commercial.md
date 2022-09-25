@@ -1,7 +1,9 @@
 ---
-name: 💼 commercial about: commercial collaboration title: ''
-labels: commercial assignees: Jian-Min-Huang
-
+name: 💼 commercial 
+about: commercial collaboration 
+title: ''
+labels: commercial 
+assignees: Jian-Min-Huang
 ---
 
 # Notice

@@ -1,7 +1,9 @@
 ---
-name: 🏷 sentence about: Chicken Soup for the Soul title: ''
-labels: sentence assignees: Jian-Min-Huang
-
+name: 🏷 sentence 
+about: Chicken Soup for the Soul
+title: ''
+labels: sentence 
+assignees: Jian-Min-Huang
 ---
 
 # Notice

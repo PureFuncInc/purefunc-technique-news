@@ -1,7 +1,9 @@
 ---
-name: 👀 news about: technique news title: ''
-labels: news assignees: Jian-Min-Huang
-
+name: 👀 news 
+about: technique news 
+title: ''
+labels: news 
+assignees: Jian-Min-Huang
 ---
 
 # Notice
