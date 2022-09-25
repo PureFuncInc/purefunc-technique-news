@@ -28,6 +28,7 @@
   * [StarBugs 星巴哥 技術週刊](https://weekly.starbugs.dev/)
   * [高見龍](https://www.facebook.com/eddiekao)
   * [廖洧杰](https://www.facebook.com/sfismy)
+  * [蔡宗城](https://www.facebook.com/smalltown0110)
   * [風雪之閣](https://www.facebook.com/cooldotnet)
   * [黑暗執行緒](https://blog.darkthread.net/)
   * [網頁開發雜記](https://www.facebook.com/thingsaboutwebdev)
