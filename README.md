@@ -21,7 +21,8 @@
   * [Jini](https://www.facebook.com/jakarta99)
   * [Gipi](https://www.facebook.com/gipi.net)
   * [iThome](https://www.ithome.com.tw/news)
-  * [Kewang 的資訊進化論](https://www.facebook.com/kewang.information)
+  * [Kewang 的資訊進化論](https://www.facebook.com/kewang.information)：
+  * [Kraftsman：Coding 職人塾](https://www.facebook.com/kraftsman.io/)
   * [Marcus 的學習筆記](https://www.facebook.com/marcustung.tech)
   * [Mei](https://www.facebook.com/mei.studio.li)
   * [The Will Will Web](https://blog.miniasp.com/)
@@ -46,3 +47,4 @@
   * [水球軟體學院 (TW WSA)](https://www.facebook.com/groups/wsa.tw)
   * [Cloud Native Taiwan User Group](https://www.facebook.com/groups/cloudnative.tw/)
   * [Kubernetes Taiwan User Group](https://www.facebook.com/groups/k8s.tw/)
+ ，
