@@ -29,6 +29,7 @@
   * [Ruddy](https://www.facebook.com/ruddyl.lee)
   * [StarBugs 星巴哥 技術週刊](https://weekly.starbugs.dev/)
   * [高見龍](https://www.facebook.com/eddiekao)
+  * [董大偉](https://www.facebook.com/isdaviddong)
   * [廖洧杰](https://www.facebook.com/sfismy)
   * [蔡宗城](https://www.facebook.com/smalltown0110)
   * [風雪之閣](https://www.facebook.com/cooldotnet)
