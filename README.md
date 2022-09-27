@@ -33,6 +33,7 @@
   * [廖洧杰](https://www.facebook.com/sfismy)
   * [蔡宗城](https://www.facebook.com/smalltown0110)
   * [風雪之閣](https://www.facebook.com/cooldotnet)
+  * [雷神講堂](https://www.facebook.com/groups/892498740830285)
   * [黑暗執行緒](https://blog.darkthread.net/)
   * [網頁開發雜記](https://www.facebook.com/thingsaboutwebdev)
   * [程式猿吃香蕉](https://www.facebook.com/banana4coder/)
