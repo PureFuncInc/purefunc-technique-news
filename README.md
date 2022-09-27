@@ -26,6 +26,7 @@
   * [Marcus 的學習筆記](https://www.facebook.com/marcustung.tech)
   * [Mei](https://www.facebook.com/mei.studio.li)
   * [The Will Will Web](https://blog.miniasp.com/)
+  * [Ruddy](https://www.facebook.com/ruddyl.lee)
   * [StarBugs 星巴哥 技術週刊](https://weekly.starbugs.dev/)
   * [高見龍](https://www.facebook.com/eddiekao)
   * [廖洧杰](https://www.facebook.com/sfismy)
