@@ -7,7 +7,7 @@
   * 👥 community
   * 📜 sentence
 * Contributions Are
-  Welcomed ([Link 👈](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/new?assignees=Jian-Min-Huang&labels=unclassified&template=contributions.md&title=))
+  Welcomed ([Link 👈](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/new/choose))
 
 # History ([Link 👈](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestones?state=closed))
 
