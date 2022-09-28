@@ -1,8 +1,8 @@
-# $_purefunc Technique Weekly News
+# $_purefunc Technique Weekly News ([Link 👈](https://purefunc.news))
 * Post Every Wednesday
 * Parts
   * 👀 news
-  * 🤡 memo
+  * 🤡 meme
   * 💼 commercial
   * 👥 community
   * 📜 sentence

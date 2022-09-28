@@ -1,8 +1,8 @@
 ---
-name: 🤡 memo 
-about: memo & fun 
+name: 🤡 meme
+about: meme & fun
 title: ''
-labels: meme 
+labels: meme
 assignees: Jian-Min-Huang
 ---
 
