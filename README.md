@@ -11,7 +11,21 @@
 
 # History ([Link 👈](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestones?state=closed))
 
+# Conference (Order by Alphabet
+
+* [iThome Agile Summit 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/49)
+* [iThome Taiwan Cloud Summit 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/37)
+* [iThome Kubernetes Summit 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/36)
+* [COSCUP 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/38)
+* [HITCON 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/40)
+* [JCConf Taiwan Conf](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/3)
+* [Laravel X Vue Conf 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/35)
+* [MOPCON 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/4)
+* [PyCon APAC 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/39)
+* [SITCON 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/47)
+
 # Origin & Partner (Order by Alphabet
+
 * Blog
   * [.NET Walker 大內行者](https://www.facebook.com/DotNetWalker)
   * [91 敏捷開發之路](https://www.facebook.com/91agile)
