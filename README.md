@@ -9,7 +9,10 @@
 * Contributions Are
   Welcomed ([Link 👈](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/new/choose))
 
-# Records ([Link 👈](https://github.com/PureFuncInc/purefunc-technique-weekly-news/tree/main/records))
+# RSS Feeds
+* https://github.com/PureFuncInc/purefunc-technique-weekly-news/releases.atom
+
+# History ([Link 👈](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestones?state=closed))
 
 # Conference (Order by Alphabet
 
