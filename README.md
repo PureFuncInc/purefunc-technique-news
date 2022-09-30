@@ -37,6 +37,7 @@
   * [GS Lin](https://blog.gslin.org/)
   * [Jini](https://www.facebook.com/jakarta99)
   * [Gipi](https://www.facebook.com/gipi.net)
+  * [Huli 隨意聊](https://www.facebook.com/huli.blog)
   * [iThome](https://www.ithome.com.tw/news)
   * [Kewang 的資訊進化論](https://www.facebook.com/kewang.information)
   * [Kraftsman：Coding 職人塾](https://www.facebook.com/kraftsman.io/)
