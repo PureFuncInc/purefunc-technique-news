@@ -68,3 +68,4 @@
   * [水球軟體學院 (TW WSA)](https://www.facebook.com/groups/wsa.tw)
   * [Cloud Native Taiwan User Group](https://www.facebook.com/groups/cloudnative.tw/)
   * [Kubernetes Taiwan User Group](https://www.facebook.com/groups/k8s.tw/)
+  * [Agile Community TW](https://www.facebook.com/AgileCommunity.tw/)
