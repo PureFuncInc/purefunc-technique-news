@@ -1,5 +1,5 @@
 ---
-name: job
+name: 💎 job
 about: issue template for job
 title: "[徵才] XX有限公司 / Jr. Backend / Sr. Backend"
 labels: job
