@@ -1,10 +1,10 @@
 # $_purefunc Technique Weekly News ([Link 👈](https://purefunc.news))
 * Post Every Wednesday
 * Parts
-  * 👀 news
-  * 🤡 meme
   * 💼 commercial
   * 👥 community
+  * 🤡 meme
+  * 👀 news
   * 📜 sentence
 * Contributions Are
   Welcomed ([Link 👈](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/new/choose))
