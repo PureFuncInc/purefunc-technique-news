@@ -34,6 +34,7 @@
   * [.NET Walker 大內行者](https://www.facebook.com/DotNetWalker)
   * [91 敏捷開發之路](https://www.facebook.com/91agile)
   * [Ant](https://www.facebook.com/yftzeng.tw)
+  * [ByteByteGo Newsletter](https://blog.bytebytego.com/)
   * [DavidKo Learning Journey](https://www.facebook.com/DavidLearningJourney)
   * [Funliday Tech Blog](https://techblog.funliday.com)
   * [GS Lin](https://blog.gslin.org)
