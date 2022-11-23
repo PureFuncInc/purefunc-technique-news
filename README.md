@@ -27,6 +27,7 @@
 * [MOPCON 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/4)
 * [PyCon APAC 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/39)
 * [SITCON 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/47)
+* [.NET Conf 2022 Taiwan](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/135)
 
 # Origin & Partner (Order by Alphabet
 
