@@ -14,20 +14,22 @@
 
 # History ([Link 👈](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestones?state=closed))
 
-# Conference (Order by Alphabet
+# Community & Conference (Order by Alphabet
 
-* [iThome Agile Summit 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/49)
-* [iThome Taiwan Cloud Summit 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/37)
-* [iThome Kubernetes Summit 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/36)
+* [Android Developer 開發讀書會](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/99)
 * [COSCUP 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/38)
 * [Google IO Extended & GDG DevFast](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/48)
 * [HITCON 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/40)
+* [iThome Agile Summit 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/49)
+* [iThome Taiwan Cloud Summit 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/37)
+* [iThome Kubernetes Summit 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/36)
+* [iThome DevOpsDays Taipei 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/41)
 * [JCConf Taiwan Conf](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/3)
 * [Laravel X Vue Conf 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/35)
 * [MOPCON 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/4)
+* [.NET Conf 2022 Taiwan](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/135)
 * [PyCon APAC 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/39)
 * [SITCON 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/47)
-* [.NET Conf 2022 Taiwan](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/135)
 
 # Origin & Partner (Order by Alphabet
 
