@@ -62,6 +62,7 @@
   * [黑暗執行緒](https://blog.darkthread.net)
   * [網頁開發雜記](https://www.facebook.com/thingsaboutwebdev)
   * [程式猿吃香蕉](https://www.facebook.com/banana4coder)
+  * [矽谷大齡工程師](https://www.facebook.com/elderengineer)
   * [安德魯的部落格](https://www.facebook.com/andrew.blog.0928)
   * [阮一峰的网络日志](https://www.ruanyifeng.com/blog)
   * [矽谷牛的耕田筆記](https://www.facebook.com/technologynoteniu)
