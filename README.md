@@ -1,5 +1,5 @@
 # $_purefunc Technique News ([Link 👈](https://purefunc.news))
-* Tags
+### Tags
   * 💼 commercial
   * 👥 community
   * 🤡 meme
