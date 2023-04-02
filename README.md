@@ -1,18 +1,10 @@
-# $_purefunc Technique Weekly News ([Link 👈](https://purefunc.news))
-* Post Every Wednesday
-* Parts
+# $_purefunc Technique News ([Link 👈](https://purefunc.news))
+* Tags
   * 💼 commercial
   * 👥 community
   * 🤡 meme
   * 👀 news
   * 📜 sentence
-* Contributions Are
-  Welcomed ([Link 👈](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/new/choose))
-
-# RSS Feeds
-* https://github.com/PureFuncInc/purefunc-technique-weekly-news/releases.atom
-
-# History ([Link 👈](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestones?state=closed))
 
 # Community & Conference (Order by Alphabet
 
