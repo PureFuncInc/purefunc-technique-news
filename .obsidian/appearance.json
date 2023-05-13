@@ -1,5 +1,9 @@
 {
   "accentColor": "",
   "cssTheme": "Dracula Official",
-  "interfaceFontFamily": "Fira Code"
+  "interfaceFontFamily": "Fira Code",
+  "textFontFamily": "Fira Code",
+  "monospaceFontFamily": "Fira Code",
+  "baseFontSize": 18,
+  "translucency": false
 }
