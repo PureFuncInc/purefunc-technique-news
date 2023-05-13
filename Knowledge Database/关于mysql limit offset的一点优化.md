@@ -14,7 +14,14 @@ WHERE
 ```sql
 SELECT
 	*
-FROM tableName AS t1
-JOIN (SELECT id FROM tableName ORDER BY id LIMIT 500000, 1) AS t2
-WHERE t1.id > t2.id ORDER BY t1.id LIMIT 2;
+FROM 
+	tableName AS t1
+		JOIN (SELECT id FROM tableName ORDER BY id LIMIT 500000, 1) AS t2
+WHERE
+	t1.id > t2.id 
+ORDER BY 
+	t1.id 
+LIMIT 2;
 ```
+
+[[SQL]]
