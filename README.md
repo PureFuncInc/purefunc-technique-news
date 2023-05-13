@@ -1,10 +1,4 @@
-# $_purefunc Technique News ([Link 👈](https://purefunc.news))
-### Tags
-  * 💼 commercial
-  * 👥 community
-  * 🤡 meme
-  * 👀 news
-  * 📜 sentence
+# $_purefunc Technique News
 
 # Conference (Order by Alphabet
 
