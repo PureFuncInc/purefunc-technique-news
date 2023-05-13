@@ -1,0 +1,1 @@
+https://betterprogramming.pub/architecture-of-modern-startup-abaec235c2eb
