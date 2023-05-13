@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HashTag/Technique Decision.md",
+                "file": "Done/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HashTag/Technique Decision.md",
+                "file": "Done/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HashTag/Technique Decision.md",
+                "file": "Done/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HashTag/Technique Decision.md"
+                "file": "Done/未命名.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "4d1212fb71c4903b",
   "lastOpenFiles": [
+    "HashTag/Rust.md",
+    "Done/未命名.md",
     "HashTag/卡片盒筆記法.md",
-    "HashTag/Technique Decision.md",
     "HashTag/DevOps.md",
     "HashTag/Git.md",
     "HashTag/JVM.md",
