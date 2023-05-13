@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/三大 JVM Library.md",
+                "file": "Note/Kim Kao - 十年.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/三大 JVM Library.md",
+                "file": "Note/Kim Kao - 十年.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/三大 JVM Library.md",
+                "file": "Note/Kim Kao - 十年.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/三大 JVM Library.md"
+                "file": "Note/Kim Kao - 十年.md"
               }
             }
           },
@@ -146,6 +146,7 @@
   "active": "7f822189e1216e9d",
   "lastOpenFiles": [
     "Note/三大 JVM Library.md",
+    "Note/Kim Kao - 十年.md",
     "Note",
     "README.md",
     "2023-05-13.md"

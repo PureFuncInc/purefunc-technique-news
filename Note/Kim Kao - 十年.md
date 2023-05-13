@@ -1,0 +1,1 @@
+https://kimkao.medium.com/%E5%8D%81%E5%B9%B4-b1a66e9013d8
