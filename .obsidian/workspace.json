@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
+                "file": "In Progress/名言佳句.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
+                "file": "In Progress/名言佳句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
+                "file": "In Progress/名言佳句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md"
+                "file": "In Progress/名言佳句.md"
               }
             }
           },
@@ -143,16 +143,16 @@
       "graph:查看關聯圖": false
     }
   },
-  "active": "7f822189e1216e9d",
+  "active": "5b1d0b6d881eba36",
   "lastOpenFiles": [
-    "Backlog/AWS re Invent 2018 Amazon DynamoDB Deep Dive Advanced Design Patterns for DynamoDB.md",
     "In Progress/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md",
     "In Progress/名言佳句.md",
+    "Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
+    "Backlog/AWS re Invent 2018 Amazon DynamoDB Deep Dive Advanced Design Patterns for DynamoDB.md",
     "In Progress",
     "Done/关于mysql limit offset的一点优化.md",
     "Done/三大 JVM Library.md",
     "Done",
-    "Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
     "Backlog/DevOps Research and Assessment - DORA.md",
     "Backlog/Docker Postgres Backup Restore Guide (with examples).md",
     "Backlog/Kim Kao - 十年.md",
