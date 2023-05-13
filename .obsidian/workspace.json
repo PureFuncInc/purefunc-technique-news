@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backlog/How to choose between MongoDB and PostgreSQL for GIS?.md",
+                "file": "Backlog/Idiomatic Kotlin. Best Practices..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog/How to choose between MongoDB and PostgreSQL for GIS?.md",
+                "file": "Backlog/Idiomatic Kotlin. Best Practices..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog/How to choose between MongoDB and PostgreSQL for GIS?.md",
+                "file": "Backlog/Idiomatic Kotlin. Best Practices..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog/How to choose between MongoDB and PostgreSQL for GIS?.md"
+                "file": "Backlog/Idiomatic Kotlin. Best Practices..md"
               }
             }
           },
@@ -143,10 +143,11 @@
       "graph:查看關聯圖": false
     }
   },
-  "active": "7f822189e1216e9d",
+  "active": "0b2919c6f63a6187",
   "lastOpenFiles": [
-    "HashTag/未命名.md",
     "Backlog/How to choose between MongoDB and PostgreSQL for GIS?.md",
+    "Backlog/Idiomatic Kotlin. Best Practices..md",
+    "HashTag/未命名.md",
     "HashTag/NoSQL.md",
     "Backlog/Why are hyperlinks blue?.md",
     "HashTag/HTTP.md",
@@ -171,7 +172,6 @@
     "HashTag/卡片盒筆記法.md",
     "In Progress/名言佳句.md",
     "In Progress/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md",
-    "In Progress/qrtt1.md",
     "In Progress",
     "Done",
     "HashTag",
