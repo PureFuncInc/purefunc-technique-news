@@ -131,7 +131,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "random-note:開始漫遊筆記": false,
-      "templates:插入模板": false,
       "graph:查看關聯圖": false
     }
   },
