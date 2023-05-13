@@ -1,6 +1,6 @@
 # $_purefunc Technique News
 
-# Conference (Order by Alphabet
+## Conference (Order by Alphabet
 
 * COSCUP 2022
 * Google IO Extended & GDG DevFast
@@ -16,10 +16,9 @@
 * PyCon APAC 2022
 * SITCON 2022
 
-# Origin (Order by Random
+## Blog (Order by Random
 
-* Blog
-  * [.NET Walker 大內行者](https://www.facebook.com/DotNetWalker)
+* [.NET Walker 大內行者](https://www.facebook.com/DotNetWalker)
   * [91 敏捷開發之路](https://www.facebook.com/91agile)
   * [Ant](https://www.facebook.com/yftzeng.tw)
   * [ByteByteGo Newsletter](https://blog.bytebytego.com/)
@@ -51,7 +50,8 @@
   * [安德魯的部落格](https://www.facebook.com/andrew.blog.0928)
   * [阮一峰的网络日志](https://www.ruanyifeng.com/blog)
   * [矽谷牛的耕田筆記](https://www.facebook.com/technologynoteniu)
-* Community
+
+## Blog (Order by Random
   * [Will 保哥的技術交流中心](https://www.facebook.com/will.fans)
   * [TWKUG](https://www.facebook.com/kotlintwn)
   * [Agile Community TW](https://www.facebook.com/AgileCommunity.tw)
