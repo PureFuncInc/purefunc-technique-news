@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backlog/未命名.md",
+                "file": "Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog/未命名.md",
+                "file": "Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog/未命名.md",
+                "file": "Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog/未命名.md"
+                "file": "Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md"
               }
             }
           },
@@ -145,8 +145,8 @@
   },
   "active": "7f822189e1216e9d",
   "lastOpenFiles": [
+    "Backlog/AWS re Invent 2018 Amazon DynamoDB Deep Dive Advanced Design Patterns for DynamoDB.md",
     "In Progress/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md",
-    "Backlog/未命名.md",
     "In Progress/名言佳句.md",
     "In Progress",
     "Done/关于mysql limit offset的一点优化.md",
