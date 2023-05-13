@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "In Progress/Guideline.md",
+                "file": "In Progress/qrtt1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "In Progress/Guideline.md",
+                "file": "In Progress/qrtt1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "In Progress/Guideline.md",
+                "file": "In Progress/qrtt1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "In Progress/Guideline.md"
+                "file": "In Progress/qrtt1.md"
               }
             }
           },
@@ -145,9 +145,9 @@
   },
   "active": "7f822189e1216e9d",
   "lastOpenFiles": [
-    "In Progress/qrtt1.md",
     "In Progress/Guideline.md",
     "In Progress/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md",
+    "In Progress/qrtt1.md",
     "HashTag/UI UX.md",
     "HashTag/Test.md",
     "HashTag/Rust.md",
