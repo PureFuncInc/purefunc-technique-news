@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "In Progress/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md",
+                "file": "In Progress/Guideline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "In Progress/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md",
+                "file": "In Progress/Guideline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "In Progress/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md",
+                "file": "In Progress/Guideline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "In Progress/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md"
+                "file": "In Progress/Guideline.md"
               }
             }
           },
@@ -146,6 +146,8 @@
   "active": "7f822189e1216e9d",
   "lastOpenFiles": [
     "In Progress/qrtt1.md",
+    "In Progress/Guideline.md",
+    "In Progress/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md",
     "HashTag/UI UX.md",
     "HashTag/Test.md",
     "HashTag/Rust.md",
@@ -169,8 +171,6 @@
     "Backlog/Why are hyperlinks blue?.md",
     "Backlog/The Architecture of a Modern Startup.md",
     "Backlog/Prerender 從 AWS 搬回傳統機房的成本節省.md",
-    "Backlog/Idiomatic Kotlin. Best Practices..md",
-    "Backlog/How to choose between MongoDB and PostgreSQL for GIS?.md",
     "In Progress",
     "Done",
     "HashTag",
