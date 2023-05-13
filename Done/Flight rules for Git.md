@@ -1,3 +1,3 @@
 https://github.com/k88hudson/git-flight-rules
 
-[[HashTag/Git]]
+[[Git]]
