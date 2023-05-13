@@ -1,3 +1,7 @@
 {
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "spellcheck": true,
+  "showLineNumber": true,
+  "showFrontmatter": true,
+  "strictLineBreaks": true
 }
