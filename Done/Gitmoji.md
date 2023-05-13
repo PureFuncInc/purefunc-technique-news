@@ -1,3 +1,3 @@
 https://gitmoji.dev/
 
-[[Git]]
+[[HashTag/Git]]
