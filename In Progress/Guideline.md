@@ -1,5 +1,5 @@
 資訊、地圖、槍
-ES EM OOAD
+Event Storming, Example Mapping, Object OrietOAD
 
 少即是多 - 不糾結
 你必須很努力，才能看起來毫不費力
