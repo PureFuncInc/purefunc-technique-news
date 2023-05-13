@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge Database/Kim Kao - 關於走入架構師學習的旅程.md",
+                "file": "Knowledge Database/DevOps Research and Assessment - DORA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Database/Kim Kao - 關於走入架構師學習的旅程.md",
+                "file": "Knowledge Database/DevOps Research and Assessment - DORA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Database/Kim Kao - 關於走入架構師學習的旅程.md",
+                "file": "Knowledge Database/DevOps Research and Assessment - DORA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Database/Kim Kao - 關於走入架構師學習的旅程.md"
+                "file": "Knowledge Database/DevOps Research and Assessment - DORA.md"
               }
             }
           },
@@ -143,12 +143,13 @@
       "graph:查看關聯圖": false
     }
   },
-  "active": "5b1d0b6d881eba36",
+  "active": "7f822189e1216e9d",
   "lastOpenFiles": [
+    "Knowledge Database/Kim Kao - 關於走入架構師學習的旅程.md",
+    "Knowledge Database/DevOps Research and Assessment - DORA.md",
     "Knowledge Database/Docker Postgres Backup Restore Guide (with examples).md",
     "Knowledge Database/Kim Kao - 十年.md",
     "Knowledge Database/三大 JVM Library.md",
-    "Knowledge Database/Kim Kao - 關於走入架構師學習的旅程.md",
     "README.md",
     "Knowledge Database",
     "2023-05-13.md"
