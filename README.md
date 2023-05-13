@@ -17,11 +17,11 @@
 * iThome Kubernetes Summit
 * iThome DevOpsDays Taipei 2022
 * JCConf
-* Laravel X Vue Conf 2022](https://github.com
-* MOPCON 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/4)
-* .NET Conf 2022 Taiwan](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/135)
-* PyCon APAC 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/39)
-* SITCON 2022](https://github.com/PureFuncInc/purefunc-technique-weekly-news/issues/47)
+* Laravel X Vue Conf
+* MOPCON 2022
+* .NET Conf 2022 Taiwan
+* PyCon APAC 2022
+* SITCON 2022
 
 # Origin & Partner (Order by Alphabet
 
