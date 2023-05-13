@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Done/Bean Searcher.md",
+                "file": "Backlog/Prerender 從 AWS 搬回傳統機房的成本節省.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Done/Bean Searcher.md",
+                "file": "Backlog/Prerender 從 AWS 搬回傳統機房的成本節省.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Done/Bean Searcher.md",
+                "file": "Backlog/Prerender 從 AWS 搬回傳統機房的成本節省.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Done/Bean Searcher.md"
+                "file": "Backlog/Prerender 從 AWS 搬回傳統機房的成本節省.md"
               }
             }
           },
@@ -159,10 +159,11 @@
   },
   "active": "4d1212fb71c4903b",
   "lastOpenFiles": [
-    "Done/2Captcha.md",
+    "HashTag/Case.md",
+    "Backlog/Prerender 從 AWS 搬回傳統機房的成本節省.md",
     "Done/Bean Searcher.md",
+    "Done/2Captcha.md",
     "Done/三大 JVM Library.md",
-    "HashTag/Idea.md",
     "Done/未命名",
     "Done/Apipost7 开发快人一步.md",
     "Done/关于mysql limit offset的一点优化.md",
@@ -185,7 +186,6 @@
     "HashTag/SQL.md",
     "Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
     "Backlog/為教學、演講進行敘畫的最佳工具 – 概念扇.md",
-    "Backlog/重新理解 Web.md",
     "In Progress",
     "Done",
     "HashTag",
