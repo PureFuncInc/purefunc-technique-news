@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/41918050/how-to-choose-between-mongodb-and-postgresql-for-gis
