@@ -51,7 +51,7 @@
   * [阮一峰的网络日志](https://www.ruanyifeng.com/blog)
   * [矽谷牛的耕田筆記](https://www.facebook.com/technologynoteniu)
 
-## Blog (Order by Random
+## Group (Order by Random
   * [Will 保哥的技術交流中心](https://www.facebook.com/will.fans)
   * [TWKUG](https://www.facebook.com/kotlintwn)
   * [Agile Community TW](https://www.facebook.com/AgileCommunity.tw)
