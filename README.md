@@ -71,3 +71,4 @@
 * [安德魯的部落格](https://www.facebook.com/andrew.blog.0928)
 * [阮一峰的网络日志](https://www.ruanyifeng.com/blog)
 * [矽谷牛的耕田筆記](https://www.facebook.com/technologynoteniu)
+* [Kim Kao](https://kimkao.medium.com/)

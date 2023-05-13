@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Kim Kao - 關於走入架構師學習的旅程.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Kim Kao - 關於走入架構師學習的旅程.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Kim Kao - 關於走入架構師學習的旅程.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Kim Kao - 關於走入架構師學習的旅程.md"
+                "file": "README.md"
               }
             }
           },
@@ -145,8 +145,8 @@
   },
   "active": "7f822189e1216e9d",
   "lastOpenFiles": [
-    "Note/Kim Kao - 十年.md",
     "Note/Kim Kao - 關於走入架構師學習的旅程.md",
+    "Note/Kim Kao - 十年.md",
     "Note/三大 JVM Library.md",
     "Note",
     "README.md",
