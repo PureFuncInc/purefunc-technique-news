@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HashTag/未命名.md",
+                "file": "Done/Rust in Production at Figma.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HashTag/未命名.md",
+                "file": "Done/Rust in Production at Figma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HashTag/未命名.md",
+                "file": "Done/Rust in Production at Figma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HashTag/未命名.md"
+                "file": "Done/Rust in Production at Figma.md"
               }
             }
           },
@@ -160,17 +160,18 @@
   "active": "4d1212fb71c4903b",
   "lastOpenFiles": [
     "Done/RPDC主页 - 小红书.md",
+    "Done/Rust in Production at Figma.md",
     "HashTag/未命名.md",
+    "HashTag/DevOps.md",
+    "HashTag/JVM.md",
+    "HashTag/UI UX.md",
     "HashTag/卡片盒筆記法.md",
     "Done/三大 JVM Library.md",
     "In Progress/名言佳句.md",
     "In Progress/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md",
     "In Progress/qrtt1.md",
-    "Done/Rust in Production at Figma.md",
     "HashTag/Rust.md",
-    "HashTag/DevOps.md",
     "HashTag/Git.md",
-    "HashTag/JVM.md",
     "HashTag/SQL.md",
     "Done/关于mysql limit offset的一点优化.md",
     "Done/Flight rules for Git.md",
@@ -186,7 +187,6 @@
     "Backlog/DevOps Research and Assessment - DORA.md",
     "Backlog/Docker Postgres Backup Restore Guide (with examples).md",
     "Backlog/Kim Kao - 十年.md",
-    "Backlog/Kim Kao - 關於走入架構師學習的旅程.md",
     "HashTag",
     "Backlog"
   ]
