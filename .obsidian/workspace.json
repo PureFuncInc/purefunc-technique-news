@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "563bd0ab4280ab0c",
+            "id": "a9a36bc1b656295d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -103,7 +103,15 @@
             }
           },
           {
-            "id": "0f0c6b087f6d31b9",
+            "id": "d111cb3458049c0e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "bf1a871ea8ca0ff4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -111,14 +119,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            }
-          },
-          {
-            "id": "d111cb3458049c0e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
             }
           }
         ]
@@ -130,12 +130,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "daily-notes:開啟今天的每日筆記": false,
-      "templates:插入模板": false,
-      "command-palette:開啟命令面板": false
+      "random-note:開始漫遊筆記": false,
+      "templates:插入模板": false
     }
   },
   "active": "05b7789e7db822ca",
