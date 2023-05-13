@@ -1,0 +1,1 @@
+https://blog.gslin.org/archives/2022/10/03/10895/prerender-%E5%BE%9E-aws-%E6%90%AC%E5%9B%9E%E5%82%B3%E7%B5%B1%E6%A9%9F%E6%88%BF%E7%9A%84%E6%88%90%E6%9C%AC%E7%AF%80%E7%9C%81/
