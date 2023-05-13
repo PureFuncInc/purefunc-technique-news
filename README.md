@@ -2,19 +2,19 @@
 
 ## Conference (Order by Alphabet
 
-* COSCUP 2022
+* COSCUP
 * Google IO Extended & GDG DevFast
-* HITCON 2022
-* iThome Agile Summit 2022
-* iThome Taiwan Cloud Summit 2022
+* HITCON
+* iThome Agile Summit
+* iThome Taiwan Cloud Summit
 * iThome Kubernetes Summit
-* iThome DevOpsDays Taipei 2022
+* iThome DevOpsDays Taipei
 * JCConf
 * Laravel X Vue Conf
-* MOPCON 2022
-* .NET Conf 2022 Taiwan
-* PyCon APAC 2022
-* SITCON 2022
+* MOPCON
+* .NET Conf Taiwan
+* PyCon APAC
+* SITCON
 
 ## Group (Order by Random
 
