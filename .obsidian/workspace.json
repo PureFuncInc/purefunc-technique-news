@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Done/Apipost7 开发快人一步.md",
+                "file": "HashTag/Idea.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Done/Apipost7 开发快人一步.md",
+                "file": "HashTag/Idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Done/Apipost7 开发快人一步.md",
+                "file": "HashTag/Idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Done/Apipost7 开发快人一步.md"
+                "file": "HashTag/Idea.md"
               }
             }
           },
@@ -157,13 +157,14 @@
       "graph:查看關聯圖": false
     }
   },
-  "active": "4d1212fb71c4903b",
+  "active": "5b1d0b6d881eba36",
   "lastOpenFiles": [
+    "Done/Apipost7 开发快人一步.md",
+    "HashTag/Idea.md",
     "Done/关于mysql limit offset的一点优化.md",
     "Done/Rust in Production at Figma.md",
     "Done/Flight rules for Git.md",
     "HashTag/Test.md",
-    "Done/Apipost7 开发快人一步.md",
     "Backlog/The Architecture of a Modern Startup.md",
     "Done/三大 JVM Library.md",
     "Done/Gitmoji.md",
@@ -184,7 +185,6 @@
     "Backlog/重新理解 Web.md",
     "Backlog/從以卵擊石到堅若磐石之 Web API 安全性全攻略.md",
     "Backlog/邁向 Tech Leader 的成長之路.md",
-    "Backlog/AWS re Invent 2018 Amazon DynamoDB Deep Dive Advanced Design Patterns for DynamoDB.md",
     "In Progress",
     "Done",
     "HashTag",
