@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "df0c5ee7220d5694",
+        "id": "a7105fff08308d5b",
         "type": "tabs",
         "children": [
           {
-            "id": "05b7789e7db822ca",
+            "id": "7f822189e1216e9d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -28,16 +28,6 @@
         "id": "065b95d421bacf05",
         "type": "tabs",
         "children": [
-          {
-            "id": "89a3ba41d1d9100d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "c0096e3b705234fd",
             "type": "leaf",
@@ -59,6 +49,16 @@
             "state": {
               "type": "bookmarks",
               "state": {}
+            }
+          },
+          {
+            "id": "5b1d0b6d881eba36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           }
         ]
@@ -130,12 +130,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:查看關聯圖": false,
       "random-note:開始漫遊筆記": false,
-      "templates:插入模板": false
+      "templates:插入模板": false,
+      "graph:查看關聯圖": false
     }
   },
-  "active": "05b7789e7db822ca",
+  "active": "7f822189e1216e9d",
   "lastOpenFiles": [
     "2023-05-13.md",
     "README.md"
