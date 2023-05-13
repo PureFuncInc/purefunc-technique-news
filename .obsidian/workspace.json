@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge Database/名言佳句.md",
+                "file": "Knowledge Database/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Database/名言佳句.md",
+                "file": "Knowledge Database/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Database/名言佳句.md",
+                "file": "Knowledge Database/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Database/名言佳句.md"
+                "file": "Knowledge Database/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md"
               }
             }
           },
@@ -145,8 +145,9 @@
   },
   "active": "7f822189e1216e9d",
   "lastOpenFiles": [
-    "HashTag/JVM.md",
     "Knowledge Database/名言佳句.md",
+    "Knowledge Database/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md",
+    "HashTag/JVM.md",
     "HashTag/DevOps.md",
     "Knowledge Database/DevOps Research and Assessment - DORA.md",
     "Knowledge Database/三大 JVM Library.md",
