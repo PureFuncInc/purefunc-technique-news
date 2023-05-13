@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Done/Apipost7 开发快人一步.md",
+                "file": "Done/Rust in Production at Figma.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Done/Apipost7 开发快人一步.md",
+                "file": "Done/Rust in Production at Figma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Done/Apipost7 开发快人一步.md",
+                "file": "Done/Rust in Production at Figma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Done/Apipost7 开发快人一步.md"
+                "file": "Done/Rust in Production at Figma.md"
               }
             }
           },
@@ -159,14 +159,15 @@
   },
   "active": "4d1212fb71c4903b",
   "lastOpenFiles": [
-    "Backlog/The Architecture of a Modern Startup.md",
+    "Done/Flight rules for Git.md",
+    "Done/Rust in Production at Figma.md",
+    "HashTag/Test.md",
     "Done/Apipost7 开发快人一步.md",
+    "Backlog/The Architecture of a Modern Startup.md",
     "Done/三大 JVM Library.md",
     "Done/关于mysql limit offset的一点优化.md",
-    "Done/Flight rules for Git.md",
     "Done/Gitmoji.md",
     "Done/RPDC主页 - 小红书.md",
-    "Done/Rust in Production at Figma.md",
     "HashTag/未命名.md",
     "HashTag/DevOps.md",
     "HashTag/JVM.md",
@@ -186,7 +187,6 @@
     "Backlog/AWS re Invent 2018 Amazon DynamoDB Deep Dive Advanced Design Patterns for DynamoDB.md",
     "In Progress",
     "Done",
-    "Backlog/DevOps Research and Assessment - DORA.md",
     "HashTag",
     "Backlog"
   ]
