@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "In Progress/qrtt1.md",
+                "file": "Backlog/怎麼讓老闆接受敏捷 - 投影片 總結 預覽版.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "In Progress/qrtt1.md",
+                "file": "Backlog/怎麼讓老闆接受敏捷 - 投影片 總結 預覽版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "In Progress/qrtt1.md",
+                "file": "Backlog/怎麼讓老闆接受敏捷 - 投影片 總結 預覽版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "In Progress/qrtt1.md"
+                "file": "Backlog/怎麼讓老闆接受敏捷 - 投影片 總結 預覽版.md"
               }
             }
           },
@@ -145,32 +145,32 @@
   },
   "active": "7f822189e1216e9d",
   "lastOpenFiles": [
+    "Done/2Captcha.md",
+    "Backlog/怎麼讓老闆接受敏捷 - 投影片 總結 預覽版.md",
+    "Done/三大 JVM Library.md",
+    "Done/关于mysql limit offset的一点优化.md",
+    "Done/Apipost7 开发快人一步.md",
+    "Done/Bean Searcher.md",
+    "Done/Flight rules for Git.md",
+    "Done/RPDC主页 - 小红书.md",
+    "Done/Rust in Production at Figma.md",
+    "HashTag/Case.md",
+    "In Progress/qrtt1.md",
     "In Progress/Guideline.md",
     "In Progress/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md",
-    "In Progress/qrtt1.md",
     "HashTag/UI UX.md",
     "HashTag/Test.md",
     "HashTag/Rust.md",
     "HashTag/NoSQL.md",
     "HashTag/HTTP.md",
     "HashTag/Git.md",
-    "HashTag/Case.md",
-    "Done/Rust in Production at Figma.md",
-    "Done/RPDC主页 - 小红书.md",
     "Done/Gitmoji.md",
-    "Done/Flight rules for Git.md",
-    "Done/Bean Searcher.md",
-    "Done/Apipost7 开发快人一步.md",
-    "Done/2Captcha.md",
     "Backlog/重新理解 Web.md",
     "Backlog/邁向 Tech Leader 的成長之路.md",
     "Backlog/為教學、演講進行敘畫的最佳工具 – 概念扇.md",
     "Backlog/從以卵擊石到堅若磐石之 Web API 安全性全攻略.md",
     "Backlog/再談Clean Architecture三原則.md",
     "Backlog/ffmpeg buddy.md",
-    "Backlog/Why are hyperlinks blue?.md",
-    "Backlog/The Architecture of a Modern Startup.md",
-    "Backlog/Prerender 從 AWS 搬回傳統機房的成本節省.md",
     "In Progress",
     "Done",
     "HashTag",
