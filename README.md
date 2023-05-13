@@ -69,3 +69,4 @@
 * [Python Taiwan](https://www.facebook.com/groups/197223143437)
 * [Rust Taiwan](https://www.facebook.com/groups/rust.tw)
 * [GO Taiwan, Gopher Taipei](https://www.facebook.com/groups/269001993248363)
+* [Android Taipei](https://www.facebook.com/groups/AndroidTaipei)
