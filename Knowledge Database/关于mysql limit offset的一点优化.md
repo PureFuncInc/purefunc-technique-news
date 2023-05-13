@@ -1,11 +1,11 @@
 https://cloud.tencent.com/developer/article/1705974
 
--- 传统limit，文件扫描
+-- 传统limit，文件扫描, 时间: 5.371s
 ```sql
 SELECT * FROM tableName ORDER BY id LIMIT 500000,2;
 ```
 
--- 子查询方式，索引扫描
+-- 子查询方式，索引扫描, 时间: 0.274s
 ```sql
 SELECT 
 	* 
@@ -15,6 +15,7 @@ WHERE
 	id >= (SELECT id FROM tableName ORDER BY id LIMIT 500000, 1) LIMIT 2;
 ```
 
+-- JOIN分页方式, 时间: 0.278s
 ```sql
 SELECT
 	*
