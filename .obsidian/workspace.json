@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "In Progress/Gitmoji.md",
+                "file": "Done/git.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "In Progress/Gitmoji.md",
+                "file": "Done/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "In Progress/Gitmoji.md",
+                "file": "Done/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "In Progress/Gitmoji.md"
+                "file": "Done/git.md"
               }
             }
           },
@@ -145,8 +145,9 @@
   },
   "active": "7f822189e1216e9d",
   "lastOpenFiles": [
+    "Done/Gitmoji.md",
+    "Done/git.md",
     "HashTag/Git.md",
-    "In Progress/Gitmoji.md",
     "Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
     "Backlog/為教學、演講進行敘畫的最佳工具 – 概念扇.md",
     "Backlog/重新理解 Web.md",
