@@ -1,4 +1,5 @@
-# $_purefunc Technique News
+# 👨‍💻$_purefunc Technique News👩‍💻
+> less is more, 
 
 ## Conference (Order by Alphabet
 
