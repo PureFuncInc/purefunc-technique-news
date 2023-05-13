@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HashTag/Idea.md",
+                "file": "Done/2Captcha.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HashTag/Idea.md",
+                "file": "Done/2Captcha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HashTag/Idea.md",
+                "file": "Done/2Captcha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HashTag/Idea.md"
+                "file": "Done/2Captcha.md"
               }
             }
           },
@@ -157,16 +157,18 @@
       "graph:查看關聯圖": false
     }
   },
-  "active": "5b1d0b6d881eba36",
+  "active": "4d1212fb71c4903b",
   "lastOpenFiles": [
-    "Done/Apipost7 开发快人一步.md",
+    "Done/三大 JVM Library.md",
+    "Done/2Captcha.md",
     "HashTag/Idea.md",
+    "Done/未命名",
+    "Done/Apipost7 开发快人一步.md",
     "Done/关于mysql limit offset的一点优化.md",
     "Done/Rust in Production at Figma.md",
     "Done/Flight rules for Git.md",
     "HashTag/Test.md",
     "Backlog/The Architecture of a Modern Startup.md",
-    "Done/三大 JVM Library.md",
     "Done/Gitmoji.md",
     "Done/RPDC主页 - 小红书.md",
     "HashTag/未命名.md",
@@ -184,7 +186,6 @@
     "Backlog/為教學、演講進行敘畫的最佳工具 – 概念扇.md",
     "Backlog/重新理解 Web.md",
     "Backlog/從以卵擊石到堅若磐石之 Web API 安全性全攻略.md",
-    "Backlog/邁向 Tech Leader 的成長之路.md",
     "In Progress",
     "Done",
     "HashTag",
