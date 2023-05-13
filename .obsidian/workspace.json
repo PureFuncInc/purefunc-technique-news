@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Done/三大 JVM Library.md",
+                "file": "Done/Gitmoji.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d1212fb71c4903b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Done/git.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Done/三大 JVM Library.md",
+                "file": "Done/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Done/三大 JVM Library.md",
+                "file": "Done/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Done/三大 JVM Library.md"
+                "file": "Done/git.md"
               }
             }
           },
@@ -143,15 +157,15 @@
       "graph:查看關聯圖": false
     }
   },
-  "active": "7f822189e1216e9d",
+  "active": "4d1212fb71c4903b",
   "lastOpenFiles": [
-    "Done/关于mysql limit offset的一点优化.md",
+    "Done/Gitmoji.md",
     "Done/git.md",
+    "HashTag/Git.md",
     "Done/三大 JVM Library.md",
+    "Done/关于mysql limit offset的一点优化.md",
     "In Progress/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md",
     "In Progress/名言佳句.md",
-    "Done/Gitmoji.md",
-    "HashTag/Git.md",
     "Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
     "Backlog/為教學、演講進行敘畫的最佳工具 – 概念扇.md",
     "Backlog/重新理解 Web.md",
