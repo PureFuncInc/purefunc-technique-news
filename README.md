@@ -6,9 +6,8 @@
   * 👀 news
   * 📜 sentence
 
-# Community & Conference (Order by Alphabet
+# Conference (Order by Alphabet
 
-* Android Developer 開發讀書會
 * COSCUP 2022
 * Google IO Extended & GDG DevFast
 * HITCON 2022
@@ -23,7 +22,7 @@
 * PyCon APAC 2022
 * SITCON 2022
 
-# Origin & Partner (Order by Alphabet
+# Origin (Order by Random
 
 * Blog
   * [.NET Walker 大內行者](https://www.facebook.com/DotNetWalker)
