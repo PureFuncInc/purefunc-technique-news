@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge Database/DevOps Research and Assessment - DORA.md",
+                "file": "Knowledge Database/名言佳句.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Database/DevOps Research and Assessment - DORA.md",
+                "file": "Knowledge Database/名言佳句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Database/DevOps Research and Assessment - DORA.md",
+                "file": "Knowledge Database/名言佳句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Database/DevOps Research and Assessment - DORA.md"
+                "file": "Knowledge Database/名言佳句.md"
               }
             }
           },
@@ -145,12 +145,13 @@
   },
   "active": "7f822189e1216e9d",
   "lastOpenFiles": [
-    "Knowledge Database/三大 JVM Library.md",
-    "HashTag/DevOps.md",
-    "README.md",
     "HashTag/JVM.md",
-    "Knowledge Database/Kim Kao - 十年.md",
+    "Knowledge Database/名言佳句.md",
+    "HashTag/DevOps.md",
     "Knowledge Database/DevOps Research and Assessment - DORA.md",
+    "Knowledge Database/三大 JVM Library.md",
+    "README.md",
+    "Knowledge Database/Kim Kao - 十年.md",
     "HashTag",
     "Knowledge Database/Docker Postgres Backup Restore Guide (with examples).md",
     "Knowledge Database/Kim Kao - 關於走入架構師學習的旅程.md",
