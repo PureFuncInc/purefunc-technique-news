@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Done/7 個快速簡易步驟即可建立決策矩陣 (含範例).md",
+                "file": "3. Done/Year Goal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Done/7 個快速簡易步驟即可建立決策矩陣 (含範例).md",
+                "file": "3. Done/Year Goal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Done/7 個快速簡易步驟即可建立決策矩陣 (含範例).md",
+                "file": "3. Done/Year Goal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Done/7 個快速簡易步驟即可建立決策矩陣 (含範例).md"
+                "file": "3. Done/Year Goal.md"
               }
             }
           },
@@ -143,10 +143,11 @@
       "graph:查看關聯圖": false
     }
   },
-  "active": "5b1d0b6d881eba36",
+  "active": "fff9dd59be41a5c4",
   "lastOpenFiles": [
-    "0. Hash Tag/Thinking Method.md",
     "3. Done/7 個快速簡易步驟即可建立決策矩陣 (含範例).md",
+    "3. Done/Year Goal.md",
+    "0. Hash Tag/Thinking Method.md",
     "3. Done/Rust in Production at Figma.md",
     "3. Done/RPDC主页 - 小红书.md",
     "3. Done/Gitmoji.md",
@@ -172,7 +173,6 @@
     "1. Backlog/Kim Kao - 十年.md",
     "1. Backlog/再談Clean Architecture三原則.md",
     "1. Backlog/ffmpeg buddy.md",
-    "1. Backlog/Why are hyperlinks blue?.md",
     "1. Backlog",
     "0. Hash Tag",
     "In Progress",
