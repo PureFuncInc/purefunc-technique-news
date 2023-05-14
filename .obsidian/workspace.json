@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Hash Tag/Thinking Method.md",
+                "file": "3. Done/7 個快速簡易步驟即可建立決策矩陣 (含範例).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Hash Tag/Thinking Method.md",
+                "file": "3. Done/7 個快速簡易步驟即可建立決策矩陣 (含範例).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Hash Tag/Thinking Method.md",
+                "file": "3. Done/7 個快速簡易步驟即可建立決策矩陣 (含範例).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Hash Tag/Thinking Method.md"
+                "file": "3. Done/7 個快速簡易步驟即可建立決策矩陣 (含範例).md"
               }
             }
           },
@@ -143,10 +143,10 @@
       "graph:查看關聯圖": false
     }
   },
-  "active": "fff9dd59be41a5c4",
+  "active": "5b1d0b6d881eba36",
   "lastOpenFiles": [
-    "1. Backlog/7 個快速簡易步驟即可建立決策矩陣 (含範例).md",
     "0. Hash Tag/Thinking Method.md",
+    "3. Done/7 個快速簡易步驟即可建立決策矩陣 (含範例).md",
     "3. Done/Rust in Production at Figma.md",
     "3. Done/RPDC主页 - 小红书.md",
     "3. Done/Gitmoji.md",
