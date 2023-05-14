@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "493ba4bc860d3c8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HashTag/Test.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HashTag/Test.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HashTag/Test.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -143,8 +157,12 @@
       "graph:查看關聯圖": false
     }
   },
-  "active": "7f822189e1216e9d",
+  "active": "493ba4bc860d3c8b",
   "lastOpenFiles": [
+    "HashTag/Test.md",
+    "conflict-files-obsidian-git.md",
+    "In Progress/Guideline.md",
+    "Backlog/怎麼讓老闆接受敏捷 - 投影片 總結 預覽版.md",
     "HashTag/JVM.md",
     "In Progress/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md",
     "HashTag/Case.md",
@@ -165,13 +183,9 @@
     "Done/关于mysql limit offset的一点优化.md",
     "Done/Rust in Production at Figma.md",
     "Done/Flight rules for Git.md",
-    "HashTag/Test.md",
     "Backlog/The Architecture of a Modern Startup.md",
     "Done/Gitmoji.md",
     "Done/RPDC主页 - 小红书.md",
-    "HashTag/DevOps.md",
-    "HashTag/UI UX.md",
-    "HashTag/卡片盒筆記法.md",
     "In Progress",
     "Done",
     "HashTag",
