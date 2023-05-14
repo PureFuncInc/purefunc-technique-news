@@ -1,9 +1,3 @@
-* 資訊、地圖、槍
-* 方法論
-	* Event Storming
-	* Example Mapping
-	* Object-Oriented Analysis & Development (UML)
-	* Design Pattern
 * 思考方法
 	* 7W3H
 		* Whom
