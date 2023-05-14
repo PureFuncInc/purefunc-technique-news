@@ -2,7 +2,7 @@
 * 方法論
 	* Event Storming
 	* Example Mapping
-	* Object-Oriented Analysis & Development
+	* Object-Oriented Analysis & Development (UML)
 	* Design Pattern
 * 思考方法
 	* 7W3H
@@ -16,7 +16,7 @@
 		* How many
 		* How much
 	* Mindmap
-	* ST
+	* STAR (BQ)
 
 少即是多 - 不糾結
 

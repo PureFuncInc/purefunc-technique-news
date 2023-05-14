@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "In Progress/Guideline.md",
+                "file": "In Progress/qrtt1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "In Progress/Guideline.md",
+                "file": "In Progress/qrtt1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "In Progress/Guideline.md",
+                "file": "In Progress/qrtt1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "In Progress/Guideline.md"
+                "file": "In Progress/qrtt1.md"
               }
             }
           },
@@ -159,8 +159,8 @@
   },
   "active": "493ba4bc860d3c8b",
   "lastOpenFiles": [
-    "In Progress/qrtt1.md",
     "In Progress/Guideline.md",
+    "In Progress/qrtt1.md",
     "In Progress/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md",
     "Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
     "HashTag/Test.md",
