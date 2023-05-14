@@ -24,8 +24,13 @@
             "id": "493ba4bc860d3c8b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "In Progress/Guideline.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -96,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "In Progress/Guideline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "In Progress/Guideline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "In Progress/Guideline.md"
+              }
             }
           },
           {
