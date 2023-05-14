@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "570f074fdfefa2ba",
+        "id": "fe83389088882d10",
         "type": "tabs",
         "children": [
           {
-            "id": "cac540c6c23b24de",
+            "id": "fff9dd59be41a5c4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -82,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,36 +136,39 @@
   },
   "active": "5b1d0b6d881eba36",
   "lastOpenFiles": [
-    "2. In Progress/qrtt1.md",
-    "2. In Progress/Guideline.md",
-    "2. In Progress/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md",
-    "1. Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
-    "0. Hash Tag/Test.md",
-    "conflict-files-obsidian-git.md",
-    "1. Backlog/怎麼讓老闆接受敏捷 - 投影片 總結 預覽版.md",
-    "0. Hash Tag/JVM.md",
-    "0. Hash Tag/Case.md",
-    "1. Backlog/再談Clean Architecture三原則.md",
-    "1. Backlog/Idiomatic Kotlin. Best Practices..md",
-    "1. Backlog/How to choose between MongoDB and PostgreSQL for GIS?.md",
-    "HashTag/未命名.md",
-    "0. Hash Tag/NoSQL.md",
-    "1. Backlog/Why are hyperlinks blue?.md",
-    "0. Hash Tag/HTTP.md",
-    "1. Backlog/ffmpeg buddy.md",
-    "1. Backlog/Prerender 從 AWS 搬回傳統機房的成本節省.md",
-    "3. Done/Bean Searcher.md",
-    "3. Done/2Captcha.md",
-    "3. Done/三大 JVM Library.md",
-    "Done/未命名",
-    "3. Done/Apipost7 开发快人一步.md",
     "3. Done/关于mysql limit offset的一点优化.md",
     "3. Done/Rust in Production at Figma.md",
+    "3. Done/三大 JVM Library.md",
+    "3. Done/RPDC主页 - 小红书.md",
+    "3. Done/Gitmoji.md",
     "3. Done/Flight rules for Git.md",
-    "1. Backlog/The Architecture of a Modern Startup.md",
-    "2. In Progress",
+    "3. Done/Bean Searcher.md",
+    "3. Done/Apipost7 开发快人一步.md",
+    "3. Done/2Captcha.md",
     "3. Done",
+    "2. In Progress/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md",
+    "2. In Progress/qrtt1.md",
+    "2. In Progress/Guideline.md",
+    "2. In Progress",
+    "1. Backlog/重新理解 Web.md",
+    "1. Backlog/邁向 Tech Leader 的成長之路.md",
+    "1. Backlog/為教學、演講進行敘畫的最佳工具 – 概念扇.md",
+    "1. Backlog/從以卵擊石到堅若磐石之 Web API 安全性全攻略.md",
+    "1. Backlog/怎麼讓老闆接受敏捷 - 投影片 總結 預覽版.md",
+    "1. Backlog/Kim Kao - 十年.md",
+    "1. Backlog/再談Clean Architecture三原則.md",
+    "1. Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
+    "1. Backlog/ffmpeg buddy.md",
+    "1. Backlog/Why are hyperlinks blue?.md",
+    "1. Backlog/The Architecture of a Modern Startup.md",
+    "1. Backlog/Prerender 從 AWS 搬回傳統機房的成本節省.md",
+    "1. Backlog/Kim Kao - 關於走入架構師學習的旅程.md",
+    "1. Backlog/Idiomatic Kotlin. Best Practices..md",
+    "1. Backlog",
     "0. Hash Tag",
-    "1. Backlog"
+    "In Progress",
+    "Done",
+    "HashTag",
+    "Backlog"
   ]
 }
