@@ -3,6 +3,9 @@
 	* Event Storming
 	* Example Mapping
 	* Object-Oriented Analysis & Development
+	* Design Pattern
+* 思考方法
+	* 
 
 少即是多 - 不糾結
 
