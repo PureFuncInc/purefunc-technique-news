@@ -10,7 +10,13 @@
 		* Who
 		* What
 		* Where
-		* 
+		* When
+		* Which
+		* How
+		* How many
+		* How much
+	* Mindmap
+	* ST
 
 少即是多 - 不糾結
 
