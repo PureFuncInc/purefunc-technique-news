@@ -5,7 +5,12 @@
 	* Object-Oriented Analysis & Development
 	* Design Pattern
 * 思考方法
-	* 
+	* 7W3H
+		* Whom
+		* Who
+		* What
+		* Where
+		* 
 
 少即是多 - 不糾結
 

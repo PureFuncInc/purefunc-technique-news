@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
+                "file": "In Progress/Guideline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
+                "file": "In Progress/Guideline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
+                "file": "In Progress/Guideline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md"
+                "file": "In Progress/Guideline.md"
               }
             }
           },
@@ -159,12 +159,14 @@
   },
   "active": "493ba4bc860d3c8b",
   "lastOpenFiles": [
+    "In Progress/qrtt1.md",
     "In Progress/Guideline.md",
+    "In Progress/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md",
+    "Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
     "HashTag/Test.md",
     "conflict-files-obsidian-git.md",
     "Backlog/怎麼讓老闆接受敏捷 - 投影片 總結 預覽版.md",
     "HashTag/JVM.md",
-    "In Progress/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md",
     "HashTag/Case.md",
     "Backlog/再談Clean Architecture三原則.md",
     "Backlog/Idiomatic Kotlin. Best Practices..md",
@@ -184,8 +186,6 @@
     "Done/Rust in Production at Figma.md",
     "Done/Flight rules for Git.md",
     "Backlog/The Architecture of a Modern Startup.md",
-    "Done/Gitmoji.md",
-    "Done/RPDC主页 - 小红书.md",
     "In Progress",
     "Done",
     "HashTag",
