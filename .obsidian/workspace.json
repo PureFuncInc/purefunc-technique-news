@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. In Progress/Guideline.md",
+                "file": "2. In Progress/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. In Progress/Guideline.md",
+                "file": "2. In Progress/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. In Progress/Guideline.md",
+                "file": "2. In Progress/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. In Progress/Guideline.md"
+                "file": "2. In Progress/未命名.md"
               }
             }
           },
@@ -146,9 +146,10 @@
   "active": "fff9dd59be41a5c4",
   "lastOpenFiles": [
     "2. In Progress/水球潘.md",
+    "2. In Progress/未命名.md",
+    "2. In Progress/qrtt1.md",
     "2. In Progress/Guideline.md",
     "1. Backlog/水球潘 with UML.md",
-    "2. In Progress/qrtt1.md",
     "3. Done/Annual Achievement 2019-2021.md",
     "3. Done/7 個快速簡易步驟即可建立決策矩陣 (含範例).md",
     "0. Hash Tag/Thinking Method.md",
@@ -172,7 +173,6 @@
     "1. Backlog/從以卵擊石到堅若磐石之 Web API 安全性全攻略.md",
     "1. Backlog/怎麼讓老闆接受敏捷 - 投影片 總結 預覽版.md",
     "1. Backlog/Kim Kao - 十年.md",
-    "1. Backlog/再談Clean Architecture三原則.md",
     "1. Backlog",
     "0. Hash Tag",
     "In Progress",
