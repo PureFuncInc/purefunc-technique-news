@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
+                "file": "1. Backlog/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
+                "file": "1. Backlog/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
+                "file": "1. Backlog/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md"
+                "file": "1. Backlog/未命名.md"
               }
             }
           },
@@ -145,6 +145,8 @@
   },
   "active": "fff9dd59be41a5c4",
   "lastOpenFiles": [
+    "1. Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
+    "1. Backlog/未命名.md",
     "Backlog/怎麼讓老闆接受敏捷 - 投影片 總結 預覽版.md",
     "3. Done/关于mysql limit offset的一点优化.md",
     "3. Done/Rust in Production at Figma.md",
@@ -167,12 +169,10 @@
     "1. Backlog/怎麼讓老闆接受敏捷 - 投影片 總結 預覽版.md",
     "1. Backlog/Kim Kao - 十年.md",
     "1. Backlog/再談Clean Architecture三原則.md",
-    "1. Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
     "1. Backlog/ffmpeg buddy.md",
     "1. Backlog/Why are hyperlinks blue?.md",
     "1. Backlog/The Architecture of a Modern Startup.md",
     "1. Backlog/Prerender 從 AWS 搬回傳統機房的成本節省.md",
-    "1. Backlog/Kim Kao - 關於走入架構師學習的旅程.md",
     "1. Backlog",
     "0. Hash Tag",
     "In Progress",
