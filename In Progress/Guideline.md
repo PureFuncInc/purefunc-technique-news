@@ -1,6 +1,8 @@
 * 資訊、地圖、槍
-* Event Storming
-* Example Mapping, Object-Oriented Analysis & Development
+* 方法論
+	* Event Storming
+	* Example Mapping
+	* Object-Oriented Analysis & Development
 
 少即是多 - 不糾結
 
