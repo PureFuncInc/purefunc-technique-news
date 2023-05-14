@@ -11,8 +11,13 @@
             "id": "fff9dd59be41a5c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Backlog/《九宮格寫作術》文章寫不出來不是你的錯，你只是沒用對方法.md"
+              }
             }
           },
           {
@@ -134,8 +143,9 @@
       "graph:查看關聯圖": false
     }
   },
-  "active": "5b1d0b6d881eba36",
+  "active": "fff9dd59be41a5c4",
   "lastOpenFiles": [
+    "Backlog/怎麼讓老闆接受敏捷 - 投影片 總結 預覽版.md",
     "3. Done/关于mysql limit offset的一点优化.md",
     "3. Done/Rust in Production at Figma.md",
     "3. Done/三大 JVM Library.md",
@@ -163,7 +173,6 @@
     "1. Backlog/The Architecture of a Modern Startup.md",
     "1. Backlog/Prerender 從 AWS 搬回傳統機房的成本節省.md",
     "1. Backlog/Kim Kao - 關於走入架構師學習的旅程.md",
-    "1. Backlog/Idiomatic Kotlin. Best Practices..md",
     "1. Backlog",
     "0. Hash Tag",
     "In Progress",
