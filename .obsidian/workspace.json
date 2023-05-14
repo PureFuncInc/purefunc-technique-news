@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backlog/再談Clean Architecture三原則.md",
+                "file": "HashTag/Test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog/再談Clean Architecture三原則.md",
+                "file": "HashTag/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog/再談Clean Architecture三原則.md",
+                "file": "HashTag/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog/再談Clean Architecture三原則.md"
+                "file": "HashTag/Test.md"
               }
             }
           },
@@ -145,8 +145,11 @@
   },
   "active": "7f822189e1216e9d",
   "lastOpenFiles": [
-    "Backlog/Idiomatic Kotlin. Best Practices..md",
+    "HashTag/JVM.md",
+    "In Progress/風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理.md",
+    "HashTag/Case.md",
     "Backlog/再談Clean Architecture三原則.md",
+    "Backlog/Idiomatic Kotlin. Best Practices..md",
     "Backlog/How to choose between MongoDB and PostgreSQL for GIS?.md",
     "HashTag/未命名.md",
     "HashTag/NoSQL.md",
@@ -154,7 +157,6 @@
     "HashTag/HTTP.md",
     "Backlog/ffmpeg buddy.md",
     "Backlog/Prerender 從 AWS 搬回傳統機房的成本節省.md",
-    "HashTag/Case.md",
     "Done/Bean Searcher.md",
     "Done/2Captcha.md",
     "Done/三大 JVM Library.md",
@@ -168,10 +170,8 @@
     "Done/Gitmoji.md",
     "Done/RPDC主页 - 小红书.md",
     "HashTag/DevOps.md",
-    "HashTag/JVM.md",
     "HashTag/UI UX.md",
     "HashTag/卡片盒筆記法.md",
-    "In Progress/名言佳句.md",
     "In Progress",
     "Done",
     "HashTag",
